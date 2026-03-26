@@ -1,17 +1,11 @@
+# Lipin Zhang
 
+He is currently an undergraduate student at Westlake University, majoring in Computer Science
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+## Contact
+Email: lipinzhang@westlake.edu.cn
+GitHub: https://github.com/lpz2020
+Personal Homepage: https://lpz2020.github.io
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
-#### Contact
-
-Email: user[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+## Education
+- Undergraduate Student, Computer Science (or your actual major), Westlake University, 2025—2029
