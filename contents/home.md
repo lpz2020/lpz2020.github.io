@@ -1,4 +1,4 @@
-# Lipin Zhang
+# Pinzhang Li
 
 He is currently an undergraduate student at Westlake University, majoring in Computer Science
 
